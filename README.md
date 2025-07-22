@@ -10,3 +10,5 @@ This Project Shows:
 *Distribution of emission factors to understand how common high emissions are
 
 ....**using Histograms, Lollipop Chart and Bargraphs**
+
+Here's the notebook's link :https://colab.research.google.com/drive/1vbHzcPsA19Pa2QcK5R1DKrunnUsfH57B?usp=sharing
